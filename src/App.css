@@ -1,0 +1,12 @@
+.MediaCard{
+  text-align: center;
+}
+.gate{
+  text-align: center;
+  color: palevioletred;
+  font-weight: bold;
+  font-size: 30px;
+}
+.elec{
+  height: 250px;
+}
